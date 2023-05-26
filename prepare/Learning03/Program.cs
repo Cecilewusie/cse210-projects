@@ -16,9 +16,9 @@ class Program
         Console.WriteLine(fractionthree.GetFractionString());
         Console.WriteLine(fractionthree.GetDecimalValue());
 
-        // Fraction FractionFour = new Fraction(1 / 3);
-        // Console.WriteLine(FractionFour.GetFractionString());
-        // Console.WriteLine(FractionFour.GetDecimalValue());
+        Fraction FractionFour = new Fraction(3, 4);
+        Console.WriteLine(FractionFour.GetFractionString());
+        Console.WriteLine(FractionFour.GetDecimalValue());
     
     //calling the getters and setters and displaying them to the terminal window
     //fractionOne.setTop(9);

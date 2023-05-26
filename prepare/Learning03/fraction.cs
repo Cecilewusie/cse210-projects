@@ -26,23 +26,23 @@ public class Fraction
     }
 
     //setting getters and setters
-    public int getTop()
-    {
-        return _top;
-    }
-    public void setTop(int top)
-    {
-        _top = top;
-    }
+    // public int getTop()
+    // {
+    //     return _top;
+    // }
+    // public void setTop(int top)
+    // {
+    //     _top = top;
+    // }
 
-    public int getBottom()
-    {
-        return _bottom;
-    }
-    public void setBottom(int bottom)
-    {
-        _bottom = bottom;
-    }
+    // public int getBottom()
+    // {
+    //     return _bottom;
+    // }
+    // public void setBottom(int bottom)
+    // {
+    //     _bottom = bottom;
+    // }
 
     //creating method
     //Create a method called GetFractionString that returns the fraction in the form 3/4.
